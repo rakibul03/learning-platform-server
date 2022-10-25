@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "course_category": "Development"
+  },
+  {
+    "id": "02",
+    "course_category": "Cyber Securty"
+  },
+  {
+    "id": "03",
+    "course_category": "Python"
+  },
+  {
+    "id": "04",
+    "course_category": "Marketing"
+  },
+  {
+    "id": "05",
+    "course_category": "Graphic Design"
+  },
+  {
+    "id": "06",
+    "course_category": "Software"
+  }
+]
