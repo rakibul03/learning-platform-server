@@ -9,7 +9,7 @@
   },
   {
     "id": "03",
-    "course_category": "Python"
+    "course_category": "Programming Languages"
   },
   {
     "id": "04",
@@ -22,5 +22,9 @@
   {
     "id": "06",
     "course_category": "Software"
+  },
+  {
+    "id": "07",
+    "course_category": "Design"
   }
 ]
