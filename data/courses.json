@@ -4,12 +4,13 @@
     "course_id": "01",
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
-    "course_title": "Javascript for Beginners",
+    "price": 9.99,
+    "course_title": "Modern HTML & CSS",
     "author": {
-      "name": "Dollar Design School",
+      "name": "Brad Traversy",
       "published_date": "2022-08-24 17:27:34"
     },
-    "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
+    "image_url": "https://i.ibb.co/x3cVXyB/1-dq-LV7-Kj-Utg57-JPBCilqx-SQ.jpg",
     "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
   },
   {
@@ -17,12 +18,13 @@
     "course_id": "01",
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
+    "price": 3.99,
     "course_title": "Javascript for Beginners",
     "author": {
       "name": "Dollar Design School",
       "published_date": "2022-08-24 17:27:34"
     },
-    "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
+    "image_url": "https://i.ibb.co/KD4xPtH/what-is-javascript-used-for.png",
     "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
   },
   {
@@ -30,12 +32,13 @@
     "course_id": "01",
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
-    "course_title": "Javascript for Beginners",
+    "price": 4.99,
+    "course_title": "AJAX Development",
     "author": {
-      "name": "Dollar Design School",
+      "name": "Mark Lassoff",
       "published_date": "2022-08-24 17:27:34"
     },
-    "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
+    "image_url": "https://i.ibb.co/vcqNF0Z/img-ajax.jpg",
     "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
   },
   {
@@ -43,6 +46,7 @@
     "course_id": "01",
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
+    "price": 7.99,
     "course_title": "Javascript for Beginners",
     "author": {
       "name": "Dollar Design School",
@@ -56,6 +60,7 @@
     "course_id": "01",
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
+    "price": 2.99,
     "course_title": "Javascript for Beginners",
     "author": {
       "name": "Dollar Design School",
@@ -69,6 +74,7 @@
     "course_id": "01",
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
+    "price": 10.99,
     "course_title": "Javascript for Beginners",
     "author": {
       "name": "Dollar Design School",
