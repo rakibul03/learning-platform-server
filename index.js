@@ -8,7 +8,7 @@ const courseCategoryName = require("./data/course-categories.json");
 const courses = require("./data/courses.json");
 
 app.get("/", (req, res) => {
-  res.send("News API Running");
+  res.send(courses);
 });
 
 app.get("/course_category", (req, res) => {
