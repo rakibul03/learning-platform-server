@@ -166,5 +166,89 @@
     },
     "image_url": "",
     "course_description": "Hello! Have you ever dreamed of getting started with Information Security or becoming a Cybersecurity Professional, but you don’t know where to start? Then you’ve come to the right place! Introducing your all-in-one course to get you up and running with information Security, cybersecurity, computer networking, and ethical hacking.You will learn the entire Information Security including Risk management, security assessment, Identity access management, cybersecurity fundamentals as well as ethical hacking concepts such as web application penetration testing, database hacking, penetration tests, and much more. I strongly believe in learning by doing, so you will acquire real-world skills by following the hands-on practical lectures."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab111",
+    "course_id": "03",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 9.99,
+    "course_title": "C Programming",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "",
+    "course_description": "Have you never programmed a computer before, and think or have been told that C is a good programming language to get started with.  It is! Maybe you have some experience with other programming languages, but want to learn C.  It's a great language to add to your resume! Or perhaps you are stuck in a low paying programming job, and want to move up to a better, more senior position.  Learning C can help you!"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab222",
+    "course_id": "03",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 3.99,
+    "course_title": "C++ Programming",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "",
+    "course_description": "Which programming language is often seen as a badge of honor among software developers?  C++ Which programming language can you learn that when added to your resume,  will often get you a job interview?  C++  Which programming language is routinely ranked in the top 5 programming languages by popularity, and been consistently in the top 10 for close to 20 years?  C++"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab333",
+    "course_id": "03",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 4.99,
+    "course_title": "Java Programming ",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "",
+    "course_description": "Are you aiming to get your first Java Programming job but struggling to find out what skills employers want and which course will give you those skills? This course is designed to give you the Java skills you need to get a job as a Java developer.  By the end of the course, you will understand Java extremely well and be able to build your own Java apps and be productive as a software developer."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab444",
+    "course_id": "03",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 7.99,
+    "course_title": "Learn Python",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "",
+    "course_description": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world – Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that's what you will get from this course."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab555",
+    "course_id": "03",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 2.99,
+    "course_title": "Code with Ruby",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "",
+    "course_description": "The most comprehensive Ruby course available on Udemy! An in-depth overview of coding with Ruby, a popular programming language renowned for its simplicity and elegance. Whether you've never written a line of code before or are looking to learn a brand new language, this course covers all bases! Learn to Code with Ruby offers more than 30+ hours of video tutorials, 250+ lectures, and dozens of quizzes and exercises to test your knowledge as you proceed through the course."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab666",
+    "course_id": "03",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 10.99,
+    "course_title": "Complete C# Masterclass",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "",
+    "course_description": "Maybe you want to work as a developer? Then you are in the right place. In this course, you are going to discover how to become a c# developer - one of the best programming languages on earth! C# is one of the few programming languages which allows you to create amazing cross-platform Mobile Apps, Games, and PC Programs. Bringing an Idea to life is one of the best feelings one can have, but the path to get there is often full of challenges. So I have created a course that makes this path as easy as possible all with the help of c# so that you become a skilled c# developer!"
   }
 ]
