@@ -250,5 +250,89 @@
     },
     "image_url": "https://i.ibb.co/RTkzqDc/retina-1708x683-cover-0219-The10-Mistakes-C-Waldek-img-343f93efd75d26a7d857e374cd8630fd.png",
     "course_description": "Maybe you want to work as a developer? Then you are in the right place. In this course, you are going to discover how to become a c# developer - one of the best programming languages on earth! C# is one of the few programming languages which allows you to create amazing cross-platform Mobile Apps, Games, and PC Programs. Bringing an Idea to life is one of the best feelings one can have, but the path to get there is often full of challenges. So I have created a course that makes this path as easy as possible all with the help of c# so that you become a skilled c# developer!"
+  },
+  {
+    "_id": "02e0e58a5c404fbd15261f11c2ab1",
+    "course_id": "04",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 9.99,
+    "course_title": "Marketing Research",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/znN03Ch/HS-blog-post-20.png",
+    "course_description": "With the information explosion that has accompanied the development of the internet, there is often a fallacy that any information that is required can be found via Google. A professional approach to supporting marketing decisions with well-grounded information requires the skills that are included in this course.The course is intended as a practical step-by-step guide to market research, to provide a structure for those who plan to undertake a research project or may wish to commission an agency to conduct research on their behalf. Each of the stages of the market research process is covered individually- starting with an understanding that market research is not the same as seeing what you can find on a particular topic or issue."
+  },
+  {
+    "_id": "02e0e58a5c404fbd15261f11c2ab2",
+    "course_id": "04",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 3.99,
+    "course_title": "Business Writing",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/mDRJqdn/Bus-Writing.png",
+    "course_description": "To write emails, business documents, reports, and other professional communications effectively, it is essential to implement a simple yet proven and systematic approach. This “writing system” was created by Dan Graham years ago and has stood the test of time. The system is subject of various books, hundreds company and business lectures, and now the practice of many 100s of 1000s of professionals worldwide."
+  },
+  {
+    "_id": "02e0e58a5c404fbd15261f11c2ab3",
+    "course_id": "04",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 4.99,
+    "course_title": "Mobile App Marketing",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/4RptNhf/mobile-app-marketing.png",
+    "course_description": "The course shows you how to create a real business out of your app. This is what sets this course apart from all other courses. I realize that you may be excited about your app idea, and rush to have it built as soon as possible. But as an app entrepreneur, you need to understand what it takes to make your app a real business that makes money. This course teaches you about app business models, high-level business strategies and app business planning. This is what makes this course special! This course will make you a strong business person, and a stronger app entrepreneur. "
+  },
+  {
+    "_id": "02e0e58a5c404fbd15261f11c2ab4",
+    "course_id": "05",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 7.99,
+    "course_title": "Graphic Design Masterclass",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/cgrSvBj/original.jpg",
+    "course_description": "In Adobe Photoshop, we will review photo editing and manipulation techniques like how to cut objects out, duotones, changing color on objects, the liquify tool and we will create a compelling YouTube thumbnail with our newly learned photoshop skills as well as an entire book cover design project. "
+  },
+  {
+    "_id": "02e0e58a5c404fbd15261f11c2ab5",
+    "course_id": "05",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 2.99,
+    "course_title": "Become a Graphic Designer",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/M7JZ6fY/60015d6a18716.jpg",
+    "course_description": "This course is aimed at aspiring graphic designers, web designers and digital artists who wish to develop a skill set needed to become a professional graphic designer. Suitable for both complete beginners and those who already have some knowledge of the industry; this course will prepare you for a career as a graphics designer through familiarising you with the concepts, principles and – most importantly – the software you'll need to know."
+  },
+  {
+    "_id": "02e0e58a5c404fbd15261f11c2ab6",
+    "course_id": "05",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 10.99,
+    "course_title": "Graphic Design Bootcamp",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/xFJ7Q1S/maxresdefault.jpg",
+    "course_description": "We will be using Photoshop, InDesign, and Illustrator; the industry-standard applications for graphic design. I'll also review relevant terms and design practices to help you create pixel-perfect projects for print and web, with the goal to get you up and running as soon as possible so you can start your new and exciting career as a graphic designer."
   }
 ]
