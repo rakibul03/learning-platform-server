@@ -11,7 +11,7 @@
       "published_date": "2022-08-24 17:27:34"
     },
     "image_url": "https://i.ibb.co/x3cVXyB/1-dq-LV7-Kj-Utg57-JPBCilqx-SQ.jpg",
-    "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
+    "course_description": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid. Become a modern and confident html and css developer no prior knowledge needed! Design and build a stunning real-world project for your portfolio from scratch. Modern, semantic, and accessible HTML5. Modern CSS (previous CSS3), including flexbox and CSS Grid for layout. Important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc.. A web design framework with easy-to-use rules and guidelines to design eye-catching websites. How to plan, sketch, design, build, test, and optimize a professional website, and how to make websites work on every possible mobile device (responsive design). How to use standard components and layout patterns for professional website design and development. Developer skills such as reading documentation, debugging, and using professional tools. Find and use free design assets such as images, fonts, and icons. Practice your skills with 10+ challenges (solutions included)"
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab2a",
@@ -47,13 +47,13 @@
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
     "price": 7.99,
-    "course_title": "Javascript for Beginners",
+    "course_title": "Modern React with Redux",
     "author": {
-      "name": "Dollar Design School",
+      "name": "Stiphen Grider",
       "published_date": "2022-08-24 17:27:34"
     },
     "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
-    "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
+    "course_description": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux!. Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about. The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab5a",
@@ -61,13 +61,13 @@
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
     "price": 2.99,
-    "course_title": "Javascript for Beginners",
+    "course_title": "Node.js Developer Course",
     "author": {
-      "name": "Dollar Design School",
+      "name": "Andrew Mod",
       "published_date": "2022-08-24 17:27:34"
     },
     "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
-    "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
+    "course_description": "The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB. The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications. The best way to learn Node is by building Node apps. From the very start you’ll be programming every project and working through challenges that I’ve designed to reinforce what you’ve learned. This will give you the hands-on experience necessary to be able to create and launch your own project once you’re done."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
@@ -75,12 +75,12 @@
     "rating": { "number": 4.4, "badge": "Excellent" },
     "total_purchase": 1320,
     "price": 10.99,
-    "course_title": "Javascript for Beginners",
+    "course_title": "React Native",
     "author": {
-      "name": "Dollar Design School",
+      "name": "Maximilian Schwarzmüller",
       "published_date": "2022-08-24 17:27:34"
     },
     "image_url": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
-    "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
+    "course_description": "Mobile apps are one of the best ways to engage with users - no wonder everyone wants to build one! Wouldn't it be great if you could use your web development knowledge, combined with your React knowledge, to build mobile apps with that? That's exactly what React Native allows you to do! No need to learn Java, Android, Swift, Objective-C, or anything of that - React and JavaScript is all you need to create awesome native mobile apps that work on both Android and iOS. That's probably the reason why Instagram, Airbnb, Skype, and many other global companies are using it to build their mobile apps! With this course, you can join this league. I'll teach you all you need to create your own React Native apps, publish them to the Google Play Store and Apple App Store and dive really deep into the React Native ecosystem."
   }
 ]
