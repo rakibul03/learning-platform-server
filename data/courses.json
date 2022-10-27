@@ -10,7 +10,7 @@
       "name": "Brad Traversy",
       "published_date": "2022-08-24 17:27:34"
     },
-    "image_url": "https://i.ibb.co/x3cVXyB/1-dq-LV7-Kj-Utg57-JPBCilqx-SQ.jpg",
+    "image_url": "https://i.ibb.co/KjT9dMk/html.png",
     "course_description": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid. Become a modern and confident html and css developer no prior knowledge needed! Design and build a stunning real-world project for your portfolio from scratch. Modern, semantic, and accessible HTML5. Modern CSS (previous CSS3), including flexbox and CSS Grid for layout. Important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc.. A web design framework with easy-to-use rules and guidelines to design eye-catching websites. How to plan, sketch, design, build, test, and optimize a professional website, and how to make websites work on every possible mobile device (responsive design). How to use standard components and layout patterns for professional website design and development. Developer skills such as reading documentation, debugging, and using professional tools. Find and use free design assets such as images, fonts, and icons. Practice your skills with 10+ challenges (solutions included)"
   },
   {
@@ -24,7 +24,7 @@
       "name": "Dollar Design School",
       "published_date": "2022-08-24 17:27:34"
     },
-    "image_url": "https://i.ibb.co/KD4xPtH/what-is-javascript-used-for.png",
+    "image_url": "https://i.ibb.co/LkvY2PD/10-Java-Script-code-challenges-for-beginners.png",
     "course_description": "Take this Javascript training course and start learning Javascript today. As a business guy, I have no place in programming. Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix problems and do real work. If you want to do something useful start by learning Javascript. These days when the browser is central to all computer use, knowing the browser's language is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript's real potential and use and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers"
   },
   {
@@ -38,8 +38,8 @@
       "name": "Mark Lassoff",
       "published_date": "2022-08-24 17:27:34"
     },
-    "image_url": "https://i.ibb.co/vcqNF0Z/img-ajax.jpg",
-    "course_description": "You’ve learned a little about Javascript,  but you still look at websites with slick, smooth, and elegant user interfaces and want to know how web developers create that. The answer is simple: Ajax.  You’ve probably heard of it, but you’ve always wondered “What is Ajax”? Ajax is simply Asynchronous Javascript and XML. By taking our Ajax course, you can make pages on your web application respond quickly, and with a minimum of screen refreshes. With our Ajax course and a little Javascript knowledge, you can use Ajax to take database information and store, alter, sort, and conditionally format it all on the client side.  This minimizes the load on your server and makes your applications respond quickly and without reloading the HTML page.  Ajax communicates with the server behind the scenes while your user continues to use your website, accessing the information they want. Our course will show you numerous Ajax examples and help you become proficient in using Ajax"
+    "image_url": "https://i.ibb.co/0BW8K9W/ajax-web-development.jpg",
+    "course_description": "You've learned a little about Javascript,  but you still look at websites with slick, smooth, and elegant user interfaces and want to know how web developers create that. The answer is simple: Ajax.  You’ve probably heard of it, but you’ve always wondered “What is Ajax”? Ajax is simply Asynchronous Javascript and XML. By taking our Ajax course, you can make pages on your web application respond quickly, and with a minimum of screen refreshes. With our Ajax course and a little Javascript knowledge, you can use Ajax to take database information and store, alter, sort, and conditionally format it all on the client side.  This minimizes the load on your server and makes your applications respond quickly and without reloading the HTML page.  Ajax communicates with the server behind the scenes while your user continues to use your website, accessing the information they want. Our course will show you numerous Ajax examples and help you become proficient in using Ajax"
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab4a",
