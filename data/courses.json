@@ -334,5 +334,47 @@
     },
     "image_url": "https://i.ibb.co/xFJ7Q1S/maxresdefault.jpg",
     "course_description": "We will be using Photoshop, InDesign, and Illustrator; the industry-standard applications for graphic design. I'll also review relevant terms and design practices to help you create pixel-perfect projects for print and web, with the goal to get you up and running as soon as possible so you can start your new and exciting career as a graphic designer."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd161f11c2ab1",
+    "course_id": "06",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 9.99,
+    "course_title": "The Lean Startup",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/bsQrn1p/lean-startup-methodology.jpg",
+    "course_description": "Lean Startup is a new, field-tested philosophy that provides you with a toolset to minimize failure and increase your chances of success. Learn why hundreds of companies, from financial services companies like Wealthfront to social companies like IMVU to large corporations such as Intuit, are using this revolutionary technique."
+  },
+  {
+    "_id": "0282e0e58a504fbd15261f11c2ab2",
+    "course_id": "06",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 3.99,
+    "course_title": "Sales and Persuasion",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/b2k6pKC/virtual-cfo-podcast-episode-2-david-cervelli-brad-turville.jpg",
+    "course_description": "Start-ups and entrepreneurs are a mixed bunch. But one thing the winners all have in common Is – the ability to influence others. The ability to sell their ideas, sell their products, sell their service. And the graveyard of business startups is littered with companies that failed to grasp that most important, essential skill - the art of persuasion."
+  },
+  {
+    "_id": "0282e0e58c404fbd15261f11c2ab3",
+    "course_id": "06",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "total_purchase": 1320,
+    "price": 4.99,
+    "course_title": "Master Your Mindset",
+    "author": {
+      "name": "Rakib Hasan",
+      "published_date": "2022-08-24 17:27:34"
+    },
+    "image_url": "https://i.ibb.co/BChNvL4/ux-mindset.jpg",
+    "course_description": "Framestorm is a registered, brain-based and elegant multiple reframing method. It helps you to cope with - and transform - mental hindrances. And it helps you move from resisting and feeling stuck, angry, sad or fearful to feeling optimally resourceful and at choice."
   }
 ]
